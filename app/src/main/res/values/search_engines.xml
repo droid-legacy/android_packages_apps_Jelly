@@ -23,6 +23,7 @@
         <item>Google encrypted</item>
         <item>Yahoo</item>
         <item>Yandex</item>
+        <item>StartPage</item>
     </string-array>
 
     <string-array name="pref_search_engine_entryvalues" translatable="false">
@@ -33,5 +34,6 @@
         <item>https://encrypted.google.com/search?q={searchTerms}</item>
         <item>https://search.yahoo.com/p={searchTerms}</item>
         <item>https://yandex.com/?q={searchTerms}</item>
+        <item>https://www.startpage.com/do/dsearch?query={searchTerms}&amp;cat=web&amp;pl=opensearch&amp;language=english</item>
     </string-array>
 </resources>
